@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-client-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-runtime-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-de-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-fr-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-it-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-lb-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-ru-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-sv-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-te-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/SRTToAudio/SubtitleToAudio/lib/marytts-lang-tr-5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
